@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Scrum Helper",
+    "version": "1.0",
+    "description": "Extenção para auxiliar na criação das histórias",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "storage"
+    ]
+  }
+  
